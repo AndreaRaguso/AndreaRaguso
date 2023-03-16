@@ -2,7 +2,7 @@
 [![MasterHead](https://github.com/AndreaRaguso/AndreaRaguso/blob/main/master1.gif)](https://andrearaguso.com)
 
 
-<span align="left"> <img align="right" src="https://komarev.com/ghpvc/?username=andrearaguso&label=Profile%20views&color=0e75b6&style=flat" alt="andrearaguso" /> </span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=andrearaguso&label=Profile%20views&color=0e75b6&style=flat" alt="andrearaguso" /> </span>
 <img align="right" width="400px" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/AndreaRaguso/AndreaRaguso/blob/main/logo-nobg-white.png">
 
 <h3 align="left">About Me:</h3>
