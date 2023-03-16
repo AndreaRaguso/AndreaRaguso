@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/AndreaRaguso/AndreaRaguso/blob/main/master3.gif)](https://andrearaguso.com)
+[![MasterHead](https://github.com/AndreaRaguso/AndreaRaguso/blob/main/master4.gif)](https://andrearaguso.com)
 <h1 align="center">Hi 👋 I'm Andrea Raguso</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
