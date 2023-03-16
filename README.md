@@ -1,4 +1,6 @@
-[![MasterHead](https://github.com/AndreaRaguso/AndreaRaguso/blob/main/master.gif)](https://rishavchanda.io)
+<span width="1000px">
+[![MasterHead](https://github.com/AndreaRaguso/AndreaRaguso/blob/main/master.gif)](https://andrearaguso.com)
+</span>
 <h1 align="center">Hi 👋 I'm Andrea Raguso</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
