@@ -1,10 +1,3 @@
-<style>
-
-img{
-    margin-right: 20px;
-}
-
-</style>
 
 <h1 align="center">Hi 👋, I'm Andrea Raguso</h1>
 <h3 align="center">Full Stack Web Developer</h3>
@@ -26,6 +19,10 @@ img{
 - 📫 How to reach me **info@andrearaguso.com**
 
 - ⚡ Fun fact **I'm 19 and I'll be a millionaire at 25.**
+
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="">
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
