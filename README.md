@@ -20,9 +20,8 @@
 
 - ⚡ Fun fact **I'm 19 and I'll be a millionaire at 25.**
 
-<picture align="right">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/AndreaRaguso/AndreaRaguso/blob/main/logo-nobg.png">
-</picture>
+  <img align="right" width="400px" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/AndreaRaguso/AndreaRaguso/blob/main/logo-nobg.png">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
