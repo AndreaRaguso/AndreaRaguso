@@ -43,7 +43,7 @@
 
 
 <br>
-<h3 align="left">GitHub Streak:</h3>
+<div><h3 align="left">GitHub Streak:</h3></div>
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrearaguso&" alt="andrearaguso" /></p>
