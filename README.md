@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Raguso</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=andrearaguso&label=Profile%20views&color=0e75b6&style=flat" alt="andrearaguso" /> </p>
+<span align="right"> <img src="https://komarev.com/ghpvc/?username=andrearaguso&label=Profile%20views&color=0e75b6&style=flat" alt="andrearaguso" /> </span>
   <img align="right" width="400px" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/AndreaRaguso/AndreaRaguso/blob/main/logo-nobg.png">
 
 <h3 align="left">About Me:</h3>
